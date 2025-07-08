@@ -1,0 +1,13 @@
+name: tts_flutter_offline
+description: tts flutter offline service for app.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.4.0-0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_tts: 4.2.2
+

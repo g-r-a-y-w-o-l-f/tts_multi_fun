@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "490194421517",
+    "project_id": "ttsservicesmultipack",
+    "storage_bucket": "ttsservicesmultipack.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490194421517:android:04ad30fc52502fd97f5244",
+        "android_client_info": {
+          "package_name": "com.example.tts_multipack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFo0Hymmx64UnJmZe_1Ng0MCzLG9zYfFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+name: theme
+description: Theme for app.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.4.0-0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+flutter:
+  uses-material-design: true
+
+  module:
+    androidX: true
+    androidPackage: a_block.theme.module
+    iosBundleIdentifier: a_block.theme.module
